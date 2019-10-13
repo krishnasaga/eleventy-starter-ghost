@@ -10,50 +10,8 @@
     <name>Ghost</name>
   </author>
   <entry>
-    <title>Welcome to Ghost</title>
-    <link href="https://fervent-dubinsky-df00cb.netlify.com//welcome/"/>
-    <updated></updated>
-    <id></id>
-    <content type="html"></content>
-  </entry>
-  <entry>
     <title>Writing posts with Ghost ✍️</title>
     <link href="https://fervent-dubinsky-df00cb.netlify.com//the-editor/"/>
-    <updated></updated>
-    <id></id>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <title>Publishing options</title>
-    <link href="https://fervent-dubinsky-df00cb.netlify.com//publishing-options/"/>
-    <updated></updated>
-    <id></id>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <title>Managing admin settings</title>
-    <link href="https://fervent-dubinsky-df00cb.netlify.com//admin-settings/"/>
-    <updated></updated>
-    <id></id>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <title>Organising your content</title>
-    <link href="https://fervent-dubinsky-df00cb.netlify.com//organising-content/"/>
-    <updated></updated>
-    <id></id>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <title>Apps &amp; integrations</title>
-    <link href="https://fervent-dubinsky-df00cb.netlify.com//apps-integrations/"/>
-    <updated></updated>
-    <id></id>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <title>Creating a custom theme</title>
-    <link href="https://fervent-dubinsky-df00cb.netlify.com//themes/"/>
     <updated></updated>
     <id></id>
     <content type="html"></content>
