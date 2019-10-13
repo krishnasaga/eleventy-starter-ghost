@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Uncertain </title>
-  <subtitle>Everyday Life and Stories in Data</subtitle>
+  <title>solo474</title>
+  <subtitle>Thoughts, stories and ideas.</subtitle>
   <link href="https://fervent-dubinsky-df00cb.netlify.com//feed.xml" rel="self"/>
   <link href="https://fervent-dubinsky-df00cb.netlify.com/"/>
   <updated></updated>
@@ -11,7 +11,49 @@
   </author>
   <entry>
     <title>Welcome to Ghost</title>
-    <link href="https://fervent-dubinsky-df00cb.netlify.com/http://localhost:2368/welcome/"/>
+    <link href="https://fervent-dubinsky-df00cb.netlify.com//welcome/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Writing posts with Ghost ✍️</title>
+    <link href="https://fervent-dubinsky-df00cb.netlify.com//the-editor/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Publishing options</title>
+    <link href="https://fervent-dubinsky-df00cb.netlify.com//publishing-options/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Managing admin settings</title>
+    <link href="https://fervent-dubinsky-df00cb.netlify.com//admin-settings/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Organising your content</title>
+    <link href="https://fervent-dubinsky-df00cb.netlify.com//organising-content/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Apps &amp; integrations</title>
+    <link href="https://fervent-dubinsky-df00cb.netlify.com//apps-integrations/"/>
+    <updated></updated>
+    <id></id>
+    <content type="html"></content>
+  </entry>
+  <entry>
+    <title>Creating a custom theme</title>
+    <link href="https://fervent-dubinsky-df00cb.netlify.com//themes/"/>
     <updated></updated>
     <id></id>
     <content type="html"></content>
