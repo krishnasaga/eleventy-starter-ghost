@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:7171/404.html</loc>
+    <lastmod>2019-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:7171/http:/localhost:2368/author/ghost/</loc>
+    <lastmod>2019-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:7171/_headers</loc>
+    <lastmod>2019-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:7171/.htaccess</loc>
+    <lastmod>2019-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:7171/</loc>
+    <lastmod>2019-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:7171/http:/localhost:2368/themes/</loc>
+    <lastmod>2019-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:7171/http:/localhost:2368/advanced-markdown/</loc>
+    <lastmod>2019-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:7171/http:/localhost:2368/private-sites/</loc>
+    <lastmod>2019-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:7171/http:/localhost:2368/welcome/</loc>
+    <lastmod>2019-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:7171/http:/localhost:2368/the-editor/</loc>
+    <lastmod>2019-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:7171/http:/localhost:2368/using-tags/</loc>
+    <lastmod>2019-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:7171/http:/localhost:2368/managing-users/</loc>
+    <lastmod>2019-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:7171/_redirects</loc>
+    <lastmod>2019-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:7171/robots.txt</loc>
+    <lastmod>2019-10-13</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:7171/http:/localhost:2368/tag/getting-started/</loc>
+    <lastmod>2019-10-13</lastmod>
+  </url>
+</urlset>
