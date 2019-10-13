@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:7171/404.html</loc>
+    <loc>https://fervent-dubinsky-df00cb.netlify.com/404.html</loc>
     <lastmod>2019-10-13</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:7171/http:/localhost:2368/author/ghost/</loc>
+    <loc>https://fervent-dubinsky-df00cb.netlify.com/http:/localhost:2368/author/ghost/</loc>
     <lastmod>2019-10-13</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:7171/_headers</loc>
+    <loc>https://fervent-dubinsky-df00cb.netlify.com/_headers</loc>
     <lastmod>2019-10-13</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:7171/.htaccess</loc>
+    <loc>https://fervent-dubinsky-df00cb.netlify.com/.htaccess</loc>
     <lastmod>2019-10-13</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:7171/</loc>
+    <loc>https://fervent-dubinsky-df00cb.netlify.com/</loc>
     <lastmod>2019-10-13</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:7171/http:/localhost:2368/welcome/</loc>
+    <loc>https://fervent-dubinsky-df00cb.netlify.com/http:/localhost:2368/welcome/</loc>
     <lastmod>2019-10-13</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:7171/_redirects</loc>
+    <loc>https://fervent-dubinsky-df00cb.netlify.com/_redirects</loc>
     <lastmod>2019-10-13</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:7171/robots.txt</loc>
+    <loc>https://fervent-dubinsky-df00cb.netlify.com/robots.txt</loc>
     <lastmod>2019-10-13</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:7171/http:/localhost:2368/tag/getting-started/</loc>
+    <loc>https://fervent-dubinsky-df00cb.netlify.com/http:/localhost:2368/tag/getting-started/</loc>
     <lastmod>2019-10-13</lastmod>
   </url>
 </urlset>

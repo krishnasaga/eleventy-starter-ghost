@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Uncertain </title>
   <subtitle>Go Deep Inside Data</subtitle>
-  <link href="http://localhost:7171/feed.xml" rel="self"/>
-  <link href="http://localhost:7171"/>
+  <link href="https://fervent-dubinsky-df00cb.netlify.com//feed.xml" rel="self"/>
+  <link href="https://fervent-dubinsky-df00cb.netlify.com/"/>
   <updated></updated>
-  <id>http://localhost:7171</id>
+  <id>https://fervent-dubinsky-df00cb.netlify.com/</id>
   <author>
     <name>Ghost</name>
   </author>
   <entry>
     <title>Welcome to Ghost</title>
-    <link href="http://localhost:7171http://localhost:2368/welcome/"/>
+    <link href="https://fervent-dubinsky-df00cb.netlify.com/http://localhost:2368/welcome/"/>
     <updated></updated>
     <id></id>
     <content type="html"></content>
