@@ -16,46 +16,4 @@
     <id></id>
     <content type="html"></content>
   </entry>
-  <entry>
-    <title>Using the Ghost editor</title>
-    <link href="http://localhost:7171http://localhost:2368/the-editor/"/>
-    <updated></updated>
-    <id></id>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <title>Organising your content with tags</title>
-    <link href="http://localhost:7171http://localhost:2368/using-tags/"/>
-    <updated></updated>
-    <id></id>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <title>Managing Ghost users</title>
-    <link href="http://localhost:7171http://localhost:2368/managing-users/"/>
-    <updated></updated>
-    <id></id>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <title>Making your site private</title>
-    <link href="http://localhost:7171http://localhost:2368/private-sites/"/>
-    <updated></updated>
-    <id></id>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <title>Advanced Markdown tips</title>
-    <link href="http://localhost:7171http://localhost:2368/advanced-markdown/"/>
-    <updated></updated>
-    <id></id>
-    <content type="html"></content>
-  </entry>
-  <entry>
-    <title>Setting up your own Ghost theme</title>
-    <link href="http://localhost:7171http://localhost:2368/themes/"/>
-    <updated></updated>
-    <id></id>
-    <content type="html"></content>
-  </entry>
 </feed>
